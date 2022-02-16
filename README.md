@@ -1,4 +1,4 @@
-# Cirikoth RP
+# Cirikoth RP Rules & Guidelines
 ## _Minecraft 1.18+ Plugin_
 #
 > Built by: __F4NGDEV__
