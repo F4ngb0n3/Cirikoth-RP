@@ -51,6 +51,9 @@ A *Mary-Sue / Gary-Stu* is a specific kind of character that has a lot of feats,
  - A character who’s exactly like their creator, except idealized or made “better”.
  - A character who’s far too powerful, especially whose abilities exceed that which is possible for his/her race in the setting of the story. Particularly if said character has abilities that do not exist within the boundaries of the story’s world. Often these characters are technically legitimate, but are very, "Look at how unique and cool I am!"
 
+6. **Rich Full Backgrounds**
+Every player that enters the realm of Cirikoth will go through a screening process. Your characters backstory **MUST** fit the lore of Cirikoth and be something worthwhile for a rich role-play experience.
+
 If you feel comfortable with everything and are ready to start your journey in Cirikoth, react to this message and you will be set to start the in-processing into Cirikoth!
 
 As long as we all keep a fun, enjoyable experience for everyone then **Cirikoth** will be around for awhile. I'll be dipped in liqiud metal if this turns into some GTA V/FiveM bullcrap XD
