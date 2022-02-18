@@ -225,7 +225,7 @@ This is a __FREE__ asset for everyone to use! We like it that way :) but, we do 
 ------------------------------------------------------
 ## License & Credits
 
-```
-License: __MIT__ __(Free Software, Hell Yeah!)__
+
+License: __MIT__ __(Free Software, Hell Yeah!)__  
 Cirikoth RP World Build: __[snowcoal](https://pcminecraft-mods.com/snowcoals-medieval-kingdom-map-minecraft/)__
-```
+
