@@ -161,7 +161,7 @@ When you purchase your home, you will be given specific permission for the __DOO
 
 __KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don;t just wander in and help themselves to all of your stuff!
 
-___What if I have an emergency and need to talk top someone at night?___
+___What if I have an emergency and need to talk top someone at night?___  
 Have no fear! __Cirikoth__ has the ability for you to knock on citizen's doors! Just simply walk up to the door in question, and use the `/knockknock` OR `/knock` command. Whether someone answers or not is the REAL question...
 
 
@@ -197,7 +197,7 @@ Currently, Cirikoth has a built in **Proximity Chat** feature that will allow yo
 ## Death
 
 >> "Inevitably, you will die... but that is a sacrifice, I am willing to make"
->> -- Lord Farquad
+>>-- Lord Farquad
 
 These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the realm's port in __Oakencairn__, or to your home should you have a home or room with a bed.
 
