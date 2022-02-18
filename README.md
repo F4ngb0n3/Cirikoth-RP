@@ -8,7 +8,7 @@ __Cirikoth__ is a Minecraft plugin developed for version 1.18+ that rewires the 
 
 As such, each new player will need to submit for an Interview to be screened by the staff of Cirikoth. Upon clearing of the interview process, you will be given the `WhiteListed` role and access to the WhiteListed channles within the Cirikoth Discord.
 
-If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone can get it there first time, and each of use plays RP differently, so take the time and if you want to, join in and get that new character and story rolling!
+If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone can get it there first time, and each of us plays RP differently, so take the time and if you want to, join in and get that new character and story rolling!
 #
 
 #### REQUIREMENTS
