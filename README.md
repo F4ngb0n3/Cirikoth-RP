@@ -80,7 +80,7 @@ When you first enter the realm of __Cirikoth__, you will be given your Traveller
 Be sure to refer to the __README__ if you require any assitance, and be sure to open Support Tickets if there are any discrepancies within your __Cirikoth__ experience.
 
 ------------------------------------------------------
-## Town and Cities
+## Towns and Cities
 __Cirikoth__ has 4 major towns _(Oakencairn, Auchenshuggle, Angelhorn, and Moria)_, a myriad of farms, and Angelhorn castle with a private district within the castle walls. And finally there is the __Angelhorn Keep__, where the __Lord and Lady of Angelhorn__ run and watch their city and the realm of Cirikoth.
 
 To begin your adventure, you will need to decide which town you will be a part of! But be sure it will benefit you; the __Jarls & Stewards__ of the towns and cities hire on an as needed basis! Make sure the position is available in that town before you decide on a homestead!
