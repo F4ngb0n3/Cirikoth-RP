@@ -75,7 +75,7 @@ As long as we all keep a fun, enjoyable experience for everyone then **Cirikoth*
 ------------------------------------------------------
 ## Starting
 
-When you first enter the realm of __Cirikoth__, you will be given your Traveller's gear and __25 Pennigar__, the currency used throughout Cirikoth. You will also start at the __Oakencairn Docks__ where you will be able to begin your adventure and see where your life takes you!
+When you first enter the realm of __Cirikoth__, you will be given your ___Traveler's Gear___ and ___25 Pennigar___, the currency used throughout Cirikoth. You will also start at the __Oakencairn Docks__ where you will be able to begin your adventure and see where your life takes you!
 
 Be sure to refer to the __README__ if you require any assitance, and be sure to open Support Tickets if there are any discrepancies within your __Cirikoth__ experience.
 
@@ -95,7 +95,7 @@ These are the current ranks within Cirikoth, and their respective abilities with
 | ---------- | ------------------------- |
 | Jarl | The Jarls of Cirikoth are the highest in command, below the High King, and have access to everything in Cirikoth. Doors, chests, commands, laws, rules, decorations, type of toilet paper... the Jarls have all the power and appoint thier Stewards to handle their day-to-day. |
 | Steward | The Steward is a DIRECT EXTENSION of their Jarl. The Steward has almost all the same power as a Jarl, but somewhat limited so as to keep ranks somewhat separate. Stewards are the advisors and assistants to the Jarls. | Thegn | The Thegn is the Jarls right-hand of justice. The Thegn is responsible for appointing Guards in the city, mainting the peace within the town/city walls, and making sure the crime is kept to a minimum. |
-| Thegns | The Thegns are the heads of security in your town/city. The Guards report to these individuals and all final criminal/security related incident outcomes will end here before they go anyn higher. |
+| Thegns | The Thegns are the heads of security in your town/city. The Guards report to these individuals and all final criminal/security related incident outcomes will end here before they go any higher. |
 | Guards (Job) | The Guards are the working force behind the peace within the towns/cities of Cirikoth. The Guards can make arrests and free citizens, but answer to the Thegn for any issues or concerns. Limited access to the realm. This is NOT a Role/Rank but more so a Job; it is here due to it's double-agent capabilities. |
 
 All other roles in Cirikoth are considered "citizen" roles and don't receive any special permissions or abilities. They are subject to the laws of the land that they find their residence in, and it is up to them to follow the rules or be handled accordingly.
@@ -159,7 +159,9 @@ To aquire a home in __Cirikoth__ you have to first find your town. Once you have
 
 When you purchase your home, you will be given specific permission for the __DOOR__ of the home you are purchasing. This ensures that EVERYTHING inside is private and hands off unless you give permission to that player with a specific command.
 
-__KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don;t just wander in and help themselves to all of your stuff!
+If purchasing a home seems like a daunting task, and a timeframe for building your savings is needed, speak to one of your towns __Inns__! These locations will normally have rooms for rent so you can continue building your finances. You might also be able to find a town ___renting out homes___ for citizens, so speak to your Jarl/Steward to see if this is a possibility for you!
+
+__KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don't just wander in and help themselves to all of your stuff!
 
 ___What if I have an emergency and need to talk top someone at night?___  
 Have no fear! __Cirikoth__ has the ability for you to knock on citizen's doors! Just simply walk up to the door in question, and use the `/knockknock` OR `/knock` command. Whether someone answers or not is the REAL question...
