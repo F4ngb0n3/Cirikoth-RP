@@ -4,11 +4,18 @@
 > Built by: __F4NGDEV__
 #
 
-__Cirikoth__ is a Minecraft plugin developed for version 1.18+ that rewires the mechanics of the game for a new experience! It brings the realism of a Medieval-Fantasy life to the minecraft relam you are in. Appoint Jarls to rule your towns/holds and watch as economy, community, and creativity spring to life.
+__Cirikoth__ is a Minecraft plugin developed for version 1.18+ that rewires the mechanics of the game for a new experience! It brings the realism of a Medieval-Fantasy life to the minecraft realm you are in. Appoint Jarls to rule your towns/holds and watch as economy, community, and creativity spring to life.
 
 As such, each new player will need to submit for an Interview to be screened by the staff of Cirikoth. Upon clearing of the interview process, you will be given the `WhiteListed` role and access to the WhiteListed channles within the Cirikoth Discord.
 
 If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone can get it there first time, and each of use plays RP differently, so take the time and if you want to, join in and get that new character and story rolling!
+#
+
+#### REQUIREMENTS
+All players looking to join Cirikoth __MUST__ be interviewed and have __ALL__ of the following ready to go _before_ entering the realm:
+
+- __Medieval Minecraft Skin:__ (This is role-play and you are REQUIRED to have a Minecraft skin that is REALISTIC! No weird, dimensional beings, no modern day clothing, no additional designs that implicate anything othert than "Medieval/Fantasy"
+- __Rich Backstory:__ Character WITH a custom, Medieval Based name and lore building their arrival at Cirikoth. For assitance in naming, please see [Fantasy Name Generators](https://www.fantasynamegenerators.com) and click on the `Fantasy & Folklore` tab at the top.
 #
 
 ------------------------------------------------------
@@ -25,7 +32,7 @@ Nestled in the middle of the Aetherverse, Cirikoth is a quiet realm where econom
 ------------------------------------------------------
 ## Rules
 
-Unfortunately, there are some rules as shitlords do exist. Please take a moment to familiarize yourself with the rules and guidelines of Exodus:
+Unfortunately, there are some rules as shitlords do exist. Please take a moment to familiarize yourself with the rules and guidelines of Cirikoth. If you cannot follow these rules, or have some smart-ass remark, go jump on __FiveM__ and join the your ranks of shit-lords and try-hards... Cirikoth is NOT the place:
 
 ****
 **__Cirikoth RP Server Rules & Guidelines__**
@@ -41,6 +48,9 @@ Meta gaming is when a player applies out of charter **(OOC)** retrieved informat
     ```
     Example: A player watches a role-play about a secret item, that only they would know. That said player would enter a role-play with them talking about the items, which he doesn't know of.
     ```
+
+3. __NO SPRINT JUMPING__:
+You are not a Kangaroo. Medieval gear and quality-of-life did NOT permit people hopping around like bunny rabbits in a full sprint continually. __DO NOT SPRINT JUMP__. Offenders will be given 2 strikes; first strike is a __Temporary 3-Day Ban__ and the second is a __Perma-Ban__; no one is here to take your shennanigans, and it will not be tolerated for those looking for QUALITY ROLE-PLAY.
 
 3. **No Lore Breaking**:
 Lore breaking is when a character breaks lore, which is anything that likely affects a character or scenario. The basis for these commonalities is origin, culture, and known historical events. *Lorebending*, a similar term, is when existing lore is lightly modified (Hence the term lore bending), but not significantly or in a way that detracts from the role-playing experience. Often this has to do with ideas that are neither supported nor contradicted by existing lore.
@@ -65,13 +75,13 @@ As long as we all keep a fun, enjoyable experience for everyone then **Cirikoth*
 ------------------------------------------------------
 ## Starting
 
-When you first enter the realm of __Cirikoth__, you will be given your Treveller's gear and __25 Pennigar__, the cuirrency used throughout Cirikoth. You will also start at the __Oakencairn Docks__ where you will be able to begin your adventure and see where your life takes you!
+When you first enter the realm of __Cirikoth__, you will be given your Traveller's gear and __25 Pennigar__, the currency used throughout Cirikoth. You will also start at the __Oakencairn Docks__ where you will be able to begin your adventure and see where your life takes you!
 
 Be sure to refer to the __README__ if you require any assitance, and be sure to open Support Tickets if there are any discrepancies within your __Cirikoth__ experience.
 
 ------------------------------------------------------
 ## Town and Cities
-__Cirikoth__ has 4 major towns, a myriad of farms, and the Angelhorn castle with a private district within the castel walls. Then there is __Cirikoth Keep__ where the High Overload runs and watches the realm of Cirikoth.
+__Cirikoth__ has 4 major towns _(Oakencairn, Auchenshuggle, Angelhorn, and Moria)_, a myriad of farms, and Angelhorn castle with a private district within the castle walls. And finally there is the __Angelhorn Keep__, where the __Lord and Lady of Angelhorn__ run and watch their city and the realm of Cirikoth.
 
 To begin your adventure, you will need to decide which town you will be a part of! But be sure it will benefit you; the __Jarls & Stewards__ of the towns and cities hire on an as needed basis! Make sure the position is available in that town before you decide on a homestead!
 
@@ -85,7 +95,8 @@ These are the current ranks within Cirikoth, and their respective abilities with
 | ---------- | ------------------------- |
 | Jarl | The Jarls of Cirikoth are the highest in command, below the High King, and have access to everything in Cirikoth. Doors, chests, commands, laws, rules, decorations, type of toilet paper... the Jarls have all the power and appoint thier Stewards to handle their day-to-day. |
 | Steward | The Steward is a DIRECT EXTENSION of their Jarl. The Steward has almost all the same power as a Jarl, but somewhat limited so as to keep ranks somewhat separate. Stewards are the advisors and assistants to the Jarls. | Thegn | The Thegn is the Jarls right-hand of justice. The Thegn is responsible for appointing Guards in the city, mainting the peace within the town/city walls, and making sure the crime is kept to a minimum. |
-| Guards | The Guards are the working force behind the peace within the towns/cities of Cirikoth. The Guards can make arrests and free citizens, but answer to the Thegn for any issues or concerns. Limited access to the realm. |
+| Thegns | The Thegns are the heads of security in your town/city. The Guards report to these individuals and all final criminal/security related incident outcomes will end here before they go anyn higher. |
+| Guards (Job) | The Guards are the working force behind the peace within the towns/cities of Cirikoth. The Guards can make arrests and free citizens, but answer to the Thegn for any issues or concerns. Limited access to the realm. This is NOT a Role/Rank but more so a Job; it is here due to it's double-agent capabilities. |
 | Henchmen | No special talents, but Henchmen are normally assigned for individulas that travel, couriers, or armed escorts. More a Private Security than anything. |
 
 All other roles in Cirikoth are considered "citizen" roles and don't receive any special permissions or abilities. They are subject to the laws of the land that they find their residence in, and it is up to them to follow the rules or be handled accordingly.
@@ -118,7 +129,6 @@ Each job is payed on a IRL Weekly Basis by the towns Jarl OR Steward, and the am
     - Shop Owner
     - Stable Master
     - Tailor
-    - Thegn
 
 
 ------------------------------------------------------
@@ -151,18 +161,21 @@ To aquire a home in __Cirikoth__ you have to first find your town. Once you have
 When you purchase your home, you will be given specific permission for the __DOOR__ of the home you are purchasing. This ensures that EVERYTHING inside is private and hands off unless you give permission to that player with a specific command.
 
 __KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don;t just wander in and help themselves to all of your stuff!
+
+#### What if I have an emergency and need to talk top someone at night?
+Have no fear! __Cirikoth__ has the ability for you to knock on citizen's doors! Just simply walk up to the door in question, and use the `/knockknock` OR `/knock` command. Whether someone answers or not is the REAL question...
 #
 
 ------------------------------------------------------
 ## Businesses
-If you have chosen the path of owneing a business in your town, there are a couple things you should know:
+If you have chosen the path of owning a business in your town, there are a couple things you should know:
 
     1. Doors MUST remain open during business hours to permit customers to use your services
     2. CLOSE your doors at night when your shop is closed so you can lock up properly (YOUR SHOP IS YOUR HOME)
     3. Make sure you are paying the Jarl if it is required!
     4. Be sure your trade routes are open to keep products and offerings available!
 
-Again, __YOUR SHOP IS YOUR HOME__ as they are all equipped with furnished living spaces above them! Make surte you are taking proper precautions so your stuff remains safe and secure.
+Again, __YOUR SHOP IS YOUR HOME__ as they are all equipped with furnished living spaces above them! Make surte you are taking proper precautions so your stuff remains safe and secure. If you want to _purchase and run a business_, speak to your town's Jarl or Steward about leasing a shop within your walls!
 #
 
 ------------------------------------------------------
@@ -187,7 +200,7 @@ Currently, Cirikoth has a built in **Proximity Chat** feature that will allow yo
 >> "Inevitably, you will die... but that is a sacrifice, I am willing to make"
 >> -- Lord Farquad
 
-These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the realm's port in __Oakencairn__, or to your home should you have a home or room.
+These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the realm's port in __Oakencairn__, or to your home should you have a home or room with a bed.
 #
 
 ------------------------------------------------------
@@ -196,11 +209,11 @@ This is still in its __BETA__ version! Should there be any questions, comments, 
 
 `EXPECT SOME BUGS`
 
-> The current version is 2.2.9
+> The current version is 2.0.16
 > Tested on Minecraft versions 1.18+
 > Used ONLY on the Cirikoth server; not a public plugin for use
 
-We will always be working to develop and continue improving the Exodus experience and we invite you to reach out should there be any questions, comments, or concerns! We have a great community and look forward to the memories created here on __Cirikoth RP__!
+We will always be working to develop and continue improving the Cirikoth experience and we invite you to reach out should there be any questions, comments, or concerns! We have a great community and look forward to the memories created here on __Cirikoth RP__!
 
 ------------------------------------------------------
 #### Support
