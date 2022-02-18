@@ -220,7 +220,7 @@ We will always be working to develop and continue improving the Cirikoth experie
 
 ------------------------------------------------------
 #### Support
-This is a __FREE__ asset for everyone to use! We like it that way :) but, we do still have day-to-days that need to get done and ANY support is greatly appreciated and funneled back into the server and development of the Exodus plugin. Please reach out via a DM to discuss any kinds of support :) Thanks you again!
+This is a __FREE__ asset for everyone to use! We like it that way :) but, we do still have day-to-days that need to get done and ANY support is greatly appreciated and funneled back into the server and development of the Cirikoth plugin. Please reach out via a DM to discuss any kinds of support :) Thank you again!
 
 ------------------------------------------------------
 ## License & Credits
