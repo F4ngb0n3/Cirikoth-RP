@@ -206,11 +206,13 @@ These things happen, but don't worry! It is not the end. Well, not completely...
 ## Final Notes
 This is still in its __BETA__ version! Should there be any questions, comments, issues, or reports that need to be made, please reach out to the __Cirikoth Discord__ to get it resolved.
 
-`EXPECT SOME BUGS`
+#### EXPECT SOME BUGS
 
-> The current version is 2.0.16
-> Tested on Minecraft versions 1.18+
-> Used ONLY on the Cirikoth server; not a public plugin for use
+```
+- The current version is 2.0.16
+- Tested on Minecraft versions 1.18+
+- Used ONLY on the Cirikoth server; not a public plugin for use
+```
 
 We will always be working to develop and continue improving the Cirikoth experience and we invite you to reach out should there be any questions, comments, or concerns! We have a great community and look forward to the memories created here on __Cirikoth RP__!
 
@@ -221,6 +223,7 @@ This is a __FREE__ asset for everyone to use! We like it that way :) but, we do 
 ------------------------------------------------------
 ## License & Credits
 
-> License: __MIT__ __(Free Software, Hell Yeah!)__
-> Cirikoth RP World Build: __[snowcoal](https://pcminecraft-mods.com/snowcoals-medieval-kingdom-map-minecraft/)__
-#
+```
+License: __MIT__ __(Free Software, Hell Yeah!)__
+Cirikoth RP World Build: __[snowcoal](https://pcminecraft-mods.com/snowcoals-medieval-kingdom-map-minecraft/)__
+```
