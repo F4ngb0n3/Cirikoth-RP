@@ -99,7 +99,7 @@ These are the current ranks within Cirikoth, and their respective abilities with
 | Guards (Job) | The Guards are the working force behind the peace within the towns/cities of Cirikoth. The Guards can make arrests and free citizens, but answer to the Thegn for any issues or concerns. Limited access to the realm. This is NOT a Role/Rank but more so a Job; it is here due to it's double-agent capabilities. |
 
 All other roles in Cirikoth are considered "citizen" roles and don't receive any special permissions or abilities. They are subject to the laws of the land that they find their residence in, and it is up to them to follow the rules or be handled accordingly.
-#
+
 
 ------------------------------------------------------
 ## Job Corps
@@ -149,7 +149,7 @@ If a Blacksmith wants to continue profiting from creating the currency and other
 ```
 
 Same with Farmers, Forestry, Barkeeps, etc. The ability to make huge amounts of money is very possible within the realm, but be careful! Sometimes the Jarl may make your weekly payment to them high! Get on your towns Council's good side!
-#
+
 
 ------------------------------------------------------
 ## Your Home
@@ -163,7 +163,7 @@ __KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don;t just wander 
 
 #### What if I have an emergency and need to talk top someone at night?
 Have no fear! __Cirikoth__ has the ability for you to knock on citizen's doors! Just simply walk up to the door in question, and use the `/knockknock` OR `/knock` command. Whether someone answers or not is the REAL question...
-#
+
 
 ------------------------------------------------------
 ## Businesses
@@ -175,14 +175,14 @@ If you have chosen the path of owning a business in your town, there are a coupl
     4. Be sure your trade routes are open to keep products and offerings available!
 
 Again, __YOUR SHOP IS YOUR HOME__ as they are all equipped with furnished living spaces above them! Make surte you are taking proper precautions so your stuff remains safe and secure. If you want to _purchase and run a business_, speak to your town's Jarl or Steward about leasing a shop within your walls!
-#
+
 
 ------------------------------------------------------
 ## Crime
 Crime in Cirikoth is __TOWN RUN AND MANAGED__ aside from the basic community server rules, which can be found at the top of this README.
 
 Crime and punishment is handled by each town, and through coordination of each town. Bounties can be placed on players, executions are a thing, dungeons and prison can happen... CRIME IS REAL.
-#
+
 
 ------------------------------------------------------
 ## Proximity Chat
@@ -191,7 +191,7 @@ Currently, Cirikoth has a built in **Proximity Chat** feature that will allow yo
 
 **UPDATE ::**
 > We have Voice Chat Proximity via Discord built into the server! The Discord will have all the information you need on getting setup properly.
-#
+
 
 ------------------------------------------------------
 ## Death
@@ -200,7 +200,7 @@ Currently, Cirikoth has a built in **Proximity Chat** feature that will allow yo
 >> -- Lord Farquad
 
 These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the realm's port in __Oakencairn__, or to your home should you have a home or room with a bed.
-#
+
 
 ------------------------------------------------------
 ## Final Notes
