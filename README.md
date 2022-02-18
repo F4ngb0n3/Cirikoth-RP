@@ -161,7 +161,7 @@ When you purchase your home, you will be given specific permission for the __DOO
 
 __KEEP YOUR DOORS CLOSED!!!__ This is how you make sure peeps don;t just wander in and help themselves to all of your stuff!
 
-#### What if I have an emergency and need to talk top someone at night?
+___What if I have an emergency and need to talk top someone at night?___
 Have no fear! __Cirikoth__ has the ability for you to knock on citizen's doors! Just simply walk up to the door in question, and use the `/knockknock` OR `/knock` command. Whether someone answers or not is the REAL question...
 
 
