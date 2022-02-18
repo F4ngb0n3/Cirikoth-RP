@@ -14,7 +14,7 @@ If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone c
 #### REQUIREMENTS
 All players looking to join Cirikoth __MUST__ be interviewed and have __ALL__ of the following ready to go _before_ entering the realm:
 
-- __Medieval Minecraft Skin:__ (This is role-play and you are REQUIRED to have a Minecraft skin that is REALISTIC! No weird, dimensional beings, no modern day clothing, no additional designs that implicate anything othert than "Medieval/Fantasy"
+- __Medieval Minecraft Skin:__ (This is role-play and you are REQUIRED to have a Minecraft skin that is REALISTIC! No weird, dimensional beings, no modern day clothing, no additional designs that implicate anything othert than "Medieval/Fantasy". For assistance in Skin Editing and examples, please see [Minecraft Skin Editor](https://www.minecraftskins.com) to find and adjust any skin you are interested in. **Please... DO NOT JUST DOWNLOAD AND USE**. Make it **YOUR SKIN!!!**. ___Staff has the right to deny applicants with lacking or no-creativity-provided skins.___
 - __Rich Backstory:__ Character WITH a custom, Medieval Based name and lore building their arrival at Cirikoth. For assitance in naming, please see [Fantasy Name Generators](https://www.fantasynamegenerators.com) and click on the `Fantasy & Folklore` tab at the top.
 
 
