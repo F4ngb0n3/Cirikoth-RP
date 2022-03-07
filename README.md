@@ -9,13 +9,16 @@ __Cirikoth__ is a Minecraft plugin developed for version 1.18+ that rewires the 
 As such, each new player will need to submit for an Interview to be screened by the staff of Cirikoth. Upon clearing of the interview process, you will be given the `WhiteListed` role and access to the WhiteListed channles within the Cirikoth Discord.
 
 If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone can get it there first time, and each of us plays RP differently, so take the time and if you want to, join in and get that new character and story rolling!
+
+__Cirikoth Discord__
+Join the Cirikoth Discord and begin your story [here](https://discord.gg/dj8M88dURR)!
 #
 
 #### REQUIREMENTS
 All players looking to join Cirikoth __MUST__ be interviewed and have __ALL__ of the following ready to go _before_ entering the realm:
 
-- __Medieval Minecraft Skin:__ (This is role-play and you are REQUIRED to have a Minecraft skin that is REALISTIC! No weird, dimensional beings, no modern day clothing, no additional designs that implicate anything othert than "Medieval/Fantasy". For assistance in Skin Editing and examples, please see [Minecraft Skin Editor](https://www.minecraftskins.com) to find and adjust any skin you are interested in. **Please... DO NOT JUST DOWNLOAD AND USE**. Make it **YOUR SKIN!!!**. ___Staff has the right to deny applicants with lacking or no-creativity-provided skins.___
-- __Rich Backstory:__ Character WITH a custom, Medieval Based name and lore building their arrival at Cirikoth. For assitance in naming, please see [Fantasy Name Generators](https://www.fantasynamegenerators.com) and click on the `Fantasy & Folklore` tab at the top.
+ - __Medieval Minecraft Skin:__ (This is role-play and you are REQUIRED to have a Minecraft skin that is REALISTIC! No weird, dimensional beings, no modern day clothing, no additional designs that implicate anything othert than "Medieval/Fantasy". For assistance in Skin Editing and examples, please see [Minecraft Skin Editor](https://www.minecraftskins.com) to find and adjust any skin you are interested in. **Please... DO NOT JUST DOWNLOAD AND USE**. Make it **YOUR SKIN!!!**. ___Staff has the right to deny applicants with lacking or no-creativity-provided skins.___
+ - __Rich Backstory:__ Character WITH a custom, Medieval Based name and lore building their arrival at Cirikoth. For assitance in naming, please see [Fantasy Name Generators](https://www.fantasynamegenerators.com) and click on the `Fantasy & Folklore` tab at the top.
 
 
 ------------------------------------------------------
