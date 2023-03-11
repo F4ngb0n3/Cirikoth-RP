@@ -1,17 +1,17 @@
 # Cirikoth RP Rules & Guidelines
 ## _Minecraft 1.18+ Plugin_
 #
-> Built by: __F4NGDEV__
+> Built by: __F4NGARANG Studios__
 #
 
-__Cirikoth__ is a Minecraft plugin developed for version 1.18+ that rewires the mechanics of the game for a new experience! It brings the realism of a Medieval-Fantasy life to the minecraft realm you are in. Appoint Jarls to rule your towns/holds and watch as economy, community, and creativity spring to life.
+__Cirikoth__ is a Minecraft plugin developed for version 1.19+ that rewires the mechanics of the game for a new experience! It brings the realism of a Medieval-Fantasy life to the minecraft realm you are in. Appoint Jarls to rule your towns/holds and watch as economy, community, and creativity spring to life.
 
-As such, each new player will need to submit for an Interview to be screened by the staff of Cirikoth. Upon clearing of the interview process, you will be given the `WhiteListed` role and access to the WhiteListed channles within the Cirikoth Discord.
+As such, each new player will need to submit for an Interview to be screened by the staff of Cirikoth. Upon clearing of the interview process, you will be given the `CirikothRPWhitelist` role and access to the WhiteListed channles within the Cirikoth Discord.
 
 If you don't make the cut during the interview, PLEASE TRY AGAIN! Not everyone can get it there first time, and each of us plays RP differently, so take the time and if you want to, join in and get that new character and story rolling!
 
 __Cirikoth Discord__
-Join the Cirikoth Discord and begin your story [here](https://discord.gg/dj8M88dURR)!
+Join the Cirikoth Discord and begin your story [here](https://discord.gg/KVKNDaN8FB)!
 #
 
 #### REQUIREMENTS
@@ -78,13 +78,13 @@ As long as we all keep a fun, enjoyable experience for everyone then **Cirikoth*
 ------------------------------------------------------
 ## Starting
 
-When you first enter the realm of __Cirikoth__, you will be given your ___Traveler's Gear___ and ___25 Pennigar___, the currency used throughout Cirikoth. You will also start at the __Oakencairn Docks__ where you will be able to begin your adventure and see where your life takes you!
+When you first enter the realm of __Cirikoth__, you will be given your __Traveler's Guide to Cirikoth__, ___Traveler's Gear___, and ___25 Pennigar___, the currency used throughout Cirikoth. You will also start at the __Traveler of Cirikoth's Home__ where you will be able to begin your adventure and see where your life takes you!
 
 Be sure to refer to the __README__ if you require any assitance, and be sure to open Support Tickets if there are any discrepancies within your __Cirikoth__ experience.
 
 ------------------------------------------------------
 ## Towns and Cities
-__Cirikoth__ has 3 major towns _(Oakencairn, Auchenshuggle, Moria)_; to begin your adventure, you will need to decide which town you will be a part of! But be sure it will benefit you; the __Jarls & Stewards__ of the towns and cities hire on an as needed basis! Make sure the position is available in that town before you decide on a homestead!
+__Cirikoth__ has 2 major settlements _(Oakencairn and Auchenshuggle)_; to begin your adventure, you will need to decide which town you will be a part of! But be sure it will benefit you; the __Jarls & Stewards__ of the towns and cities hire on an as needed basis! Make sure the position is available in that town before you decide on a homestead!
 
 ------------------------------------------------------
 ## Roles & Rankings
@@ -115,20 +115,22 @@ Each job is payed on a IRL Weekly Basis by the towns Jarl OR Steward, and the am
     - Barkeep
     - Blacksmith
     - Bounty Hunter
+    - Breeder ( Animal Husbandry )
     - Brewer
     - Butcher
     - Cook
     - Courier
-    - Enchanter
     - Farmer
     - Forestry
     - Guard
-    - Henchman _(Security)_
+    - Private Security
     - Hunter
     - Miner
+    - Shaman
     - Shop Owner
     - Stable Master
     - Tailor
+    - Town Clerk
 
 
 ------------------------------------------------------
@@ -137,7 +139,7 @@ __Pennigar__ is the main currency used in Cirikoth, __AND CAN ONLY BE MADE BY BL
 
 To handle transactions, you would "throw" the required amount of Pennigar to the player you are paying. If the transaction is __15 pennigar__, you would need to separate 15 Pennogar in your inventory, and then give the 15 stack to the the other player.
 
-Safe keeping your stacks of Pennigar is important, that is why each town will be equipped with a __Bank__. The banks are accessible during the towns business hours, and allows players to Deposit and Withdrawl amounts of Pennigar for safe keeping. This transaction is handled by visiting the bank and giving the teller your funds for saving. The tellers will keep a record of all deposits so that citizens know their pennigar is safe, allowing for a constant and balanced amount of secure pennigar storage in each city. The __Jarls__ will setup their mode of handling within the banks, so make sure you know the deal in your city/town!
+Safe keeping your stacks of Pennigar is important, that is why each town will be equipped with a __Bank__ or __Vault__. These are accessible during the towns business hours, and allows players to Deposit and Withdrawl amounts of Pennigar for safe keeping. This transaction is handled by visiting the bank and giving the teller your funds for saving. The tellers will keep a record of all deposits so that citizens know their pennigar is safe, allowing for a constant and balanced amount of secure pennigar storage in each city. The __Jarls__ will setup their mode of handling within the banks, so make sure you know the deal in your city/town!
 
 Every IRL week, payments __MUST__ be made to vendors and open trade route recipients _(or whatever you have setup with your trader)_. Should this fail repeatedly, you will be informed before being removed of your title!
 
@@ -202,7 +204,7 @@ Currently, Cirikoth has a built in **Proximity Chat** feature that will allow yo
 >> "Inevitably, you will die... but that is a sacrifice, I am willing to make"  
 >> -- Lord Farquad
 
-These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the realm's port in __Oakencairn__, or to your home should you have a home or room with a bed.
+These things happen, but don't worry! It is not the end. Well, not completely... When you are slip slowly into the void, your energy is transferred to the __Aether__, where it will be summoned back by the forces of Cirikoth to either the __Traveler's Home__, or to your home should you have a home or room with a bed.
 
 
 ------------------------------------------------------
@@ -212,8 +214,8 @@ This is still in its __BETA__ version! Should there be any questions, comments, 
 #### EXPECT SOME BUGS
 
 ```
-- The current version is 2.0.16
-- Tested on Minecraft versions 1.18+
+- The current version is 1.0.4
+- Tested on Minecraft versions 1.19+
 - Used ONLY on the Cirikoth server; not a public plugin for use
 ```
 
