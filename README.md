@@ -76,6 +76,17 @@ If you feel comfortable with everything and are ready to start your journey in C
 As long as we all keep a fun, enjoyable experience for everyone then **Cirikoth** will be around for awhile. I'll be dipped in liqiud metal if this turns into some GTA V/FiveM bullcrap XD
 
 ------------------------------------------------------
+## Support for your CirikothRP Experience
+
+We offer 2 types of support tickets in our CirikothRP Discord channels; our Support Kiosk and our Reports Kiosk. Each have their own functions and are there for your use should you ever need them.
+
+__The Support Kiosk:__
+The Support Kisosk is for anything related to your experience OUTSIDE of the server. This could be anything from shader issues, connection issues, VC issues, etc. and is making your link to the CirikothRP server anything but pleasant and smooth.
+
+__The Report Kiosk:__
+The Report Kiosk is for reporting anything that goes against our Rules & Guidelines, or reporting anything IC ( _In Character_ ) that you witness and doesn't quite sit right with you. __PLEASE USE THIS__. All reports will be kept anonymous and the assistance in keeping an immersive and fun experience for everyone is __DEEPLY__ appreciated!
+
+------------------------------------------------------
 ## Starting
 
 When you first enter the realm of __Cirikoth__, you will be given your __Traveler's Guide to Cirikoth__, ___Traveler's Gear___, and ___25 Pennigar___, the currency used throughout Cirikoth. You will also start at the __Traveler of Cirikoth's Home__ where you will be able to begin your adventure and see where your life takes you!
