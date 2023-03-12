@@ -242,5 +242,5 @@ This is a __FREE__ asset for everyone to use! We like it that way :) but, we do 
 
 
 License: __MIT__ __(Free Software, Hell Yeah!)__  
-Cirikoth RP World Build: __[snowcoal](https://pcminecraft-mods.com/snowcoals-medieval-kingdom-map-minecraft/)__
+Cirikoth RP World Build: Pain-Stakingly built with blood, sweat, and tears by the __F4NGARANG Studios__ team :)
 
